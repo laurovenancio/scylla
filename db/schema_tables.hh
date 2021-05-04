@@ -48,6 +48,7 @@
 #include "schema_mutations.hh"
 #include "types/map.hh"
 #include "query-result-set.hh"
+#include "database.hh"
 
 #include <vector>
 #include <map>
